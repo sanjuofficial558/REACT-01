@@ -1,0 +1,17 @@
+*{
+    margin: 0;padding: 0;
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+    background-color: slategrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: bisque;
+    font-size: 1.5rem;
+}
+#flex{
+    display: flex;
+    gap: 10px;
+}
